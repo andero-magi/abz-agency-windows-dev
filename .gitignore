@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+
+# Lock file
+monitor.lock
